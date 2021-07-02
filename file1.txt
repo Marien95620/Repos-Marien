@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Ceci concerne que la branche Lait-branche
-=======
-Kirikou est Karaba la sorcière
->>>>>>> Lait-brach
+C'est le weekend
